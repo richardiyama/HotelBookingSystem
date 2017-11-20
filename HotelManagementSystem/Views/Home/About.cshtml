@@ -1,0 +1,29 @@
+﻿@model IEnumerable<HotelManagementSystem.Models.About>
+
+@{
+    ViewBag.Title = "About";
+}
+
+@foreach (var item in Model)
+{
+<!-- /about -->
+<div class="about-wthree">
+    <div class="container">
+        <div class="ab-w3l-spa">
+            <h3 class="title-w3-agileits title-black-wthree">@Html.DisplayFor(modelItem => item.Title)</h3>
+            <p class="about-para-w3ls">@Html.DisplayFor(modelItem => item.Body)</p>
+            <img src="~/images/@Html.DisplayFor(modelItem => item.AboutImage)" class="img-responsive">
+            <div class="w3l-slider-img">
+                <img src="~/images/ @Html.DisplayFor(modelItem => item.ImageSource)" class="img-responsive">
+            </div>
+            <div class="w3ls-info-about">
+                <h4>@Html.DisplayFor(modelItem => item.HeaderContent)</h4>
+                <p>@Html.DisplayFor(modelItem => item.Content)</p>
+            </div>
+        </div>
+        <div class="clearfix"> </div>
+    </div>
+</div>
+<!-- //about -->
+
+}
