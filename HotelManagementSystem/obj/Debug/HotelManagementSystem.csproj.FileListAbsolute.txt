@@ -94,3 +94,6 @@ c:\users\richard iyama\documents\visual studio 2017\Projects\HotelManagementSyst
 c:\users\richard iyama\documents\visual studio 2017\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.dll
 c:\users\richard iyama\documents\visual studio 2017\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
 C:\Users\Richard Iyama\Documents\Visual Studio 2017\Projects\HotelManagementSystem\HotelManagementSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\Richard Iyama\Documents\Visual Studio 2017\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Richard Iyama\Documents\Visual Studio 2017\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Migrations.InitialCreate.resources
+C:\Users\Richard Iyama\Documents\Visual Studio 2017\Projects\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.Cache

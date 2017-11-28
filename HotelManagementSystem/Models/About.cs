@@ -14,5 +14,7 @@ namespace HotelManagementSystem.Models
         public string ImageSource { get; set; }
         public string HeaderContent { get; set; }
         public string Content { get; set; }
+
+       
     }
 }

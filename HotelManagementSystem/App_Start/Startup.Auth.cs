@@ -54,9 +54,9 @@ namespace HotelManagementSystem
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+            appId: "1468658983372615",
+               appSecret: "bfaf465369cce4b99f59b2dc30586a4c");
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{

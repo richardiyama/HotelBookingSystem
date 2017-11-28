@@ -11,6 +11,7 @@ using System.Web.Mvc;
 
 namespace HotelManagementSystem.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class AboutController : Controller
     {
         //Hosted web API REST Service base url  
